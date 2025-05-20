@@ -1,7 +1,5 @@
 # NET.ALR - Network Analysis and Monitoring Tool
 
-![NET.ALR Logo](https://via.placeholder.com/150x150)
-
 ## Overview
 
 NET.ALR is an advanced network monitoring and analysis tool developed in Excel VBA. This application provides comprehensive network device tracking, IP classification, statistical analysis, and data visualization capabilities through an intuitive user interface.
@@ -43,17 +41,7 @@ NET.ALR is an advanced network monitoring and analysis tool developed in Excel V
 - Performance monitoring (Consumption, Latency)
 - Security assessment (Open ports)
 - System information tracking (OS, Update status)
-
-## Screenshots
-
-![Login Interface](https://via.placeholder.com/500x300)
-*Login Interface*
-
-![Main Dashboard](https://via.placeholder.com/500x300)
-*Main Application Dashboard*
-
-## Installation & Setup
-
+- 
 1. **Requirements**
    - Microsoft Excel (2016 or later recommended)
    - Macros must be enabled
@@ -128,11 +116,3 @@ NET.ALR is an advanced network monitoring and analysis tool developed in Excel V
 ## Acknowledgements
 
 Special thanks to Monsieur Laatabi for guidance and supervision throughout the development of this project.
-
-## License
-
-This project is released under the MIT License. See the LICENSE file for details.
-
----
-
-© 2024 NET.ALR Team | Made for GESTION ET ANALYSE DES DONNEES course | RESEAUX INFORMATIQUES
